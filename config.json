@@ -1,0 +1,10 @@
+{
+    "BotSettings": {
+        "Debug": false
+    },
+    "MySql": {
+        "dbHost": "Localhost",
+        "dbType": "mysql" 
+    },
+    "__Notes": "Don't change the 'dbType' option for now, we will be supporting other dbTypes in the near future!"
+}

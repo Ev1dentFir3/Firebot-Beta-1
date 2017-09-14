@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1",
+  "name": "Firebot-for-Discord",
+  "dependencies": {
+    "cli-spinner": "0.2.6",
+    "ffmpeg-binaries": "3.2.2-3",
+    "discord.js": "11.2.1",
+    "mysql2": "1.4.2",
+    "opusscript": "0.0.3",
+    "rss-parser": "2.10.4",
+    "sequelize": "4.8.2",
+    "get-youtube-id": "1.0.0",
+    "youtube-info": "1.1.1",
+    "ytdl-core": "0.17.1"
+  }
+}
