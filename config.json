@@ -1,8 +1,12 @@
 {
     "BotSettings": {
+        "BotToken": "PutYourBotTokenHere!",
         "Debug": false
     },
     "MySql": {
+        "dbName": "yourDBName",
+        "dbUserName": "yourDBUserName",
+        "dbPassword": "yourDBPassword",
         "dbHost": "Localhost",
         "dbType": "mysql" 
     },
